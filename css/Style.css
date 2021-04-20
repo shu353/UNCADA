@@ -229,7 +229,7 @@ main .restaurante {
 }
 
 main .restaurante .restaurante-background {
-  padding-top: 5%;
+  padding-top: 8%;
   text-align: center;
   color: var(--bg-color);
 }
