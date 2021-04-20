@@ -229,13 +229,13 @@ main .restaurante {
 }
 
 main .restaurante .restaurante-background {
-  padding-top: 10rem;
+  padding-top: 5%;
   text-align: center;
   color: var(--bg-color);
 }
 
 main .waze-map {
-  padding: 45%;
+  padding: 85%;
   position: absolute;
   left: 95%;
   padding-bottom: 55%;
