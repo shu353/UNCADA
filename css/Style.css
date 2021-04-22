@@ -224,7 +224,7 @@ main .informacion-uncada {
 main .restaurante {
   background: url(../assets/mina-de-oro-frente.PNG);
   background-size: cover;
-  height: 95vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   margin-left: 10%;
