@@ -257,6 +257,10 @@ main .blog {
   margin-left: 10%;
 }
 
+main .blog .titulo-proyectos {
+  margin-top: -1%;
+}
+
 main .blog .blog-post {
   padding-top: 6rem;
 }
