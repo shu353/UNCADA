@@ -251,7 +251,7 @@ main .waze-map {
 main .blog {
   background: url("../assets/pexels-oleg-magni-1024613.jpg");
   background-repeat: no-repeat;
-  height: 70%;
+  height: 90%;
   width: 80%;
   background-size: 100%;
   margin-left: 10%;
@@ -270,12 +270,13 @@ main .blog-post .blog-content {
   flex-direction: column;
   text-align: center;
   width: 80%;
-  margin: 3rem 2rem;
+  margin: -1rem 2rem;
   box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
 }
 
 main .blog-content .blog-title {
   padding: 2rem 0;
+  height: auto;
 }
 
 main .blog-content .btn-blog {
